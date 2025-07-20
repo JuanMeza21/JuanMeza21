@@ -1,10 +1,12 @@
-# 👋 Hi there ! I'm Juan Meza
+# 👋 Hi there! I'm Juan Meza
 
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Systems+Engineer)
 
 </div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -43,11 +45,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanMeza21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMeza21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanMeza21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JuanMeza21&theme=tokyonight&hide_border=true&background=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMeza21&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=JuanMeza21&theme=tokyonight&hide_border=true&background=00000000)
 
 </div>
+
+---
+
+## 🌐 Conéctate conmigo
+
+<div align="">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)]()
+
+</div>
+
