@@ -56,7 +56,7 @@
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🌐 Contact
 
 <div align="">
 
