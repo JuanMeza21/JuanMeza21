@@ -45,12 +45,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+![JuanMeza21's Stats](https://github-readme-stats.vercel.app/api?username=JuanMeza21&theme=blueberry&show_icons=true&hide_border=true&count_private=true&bg_color=00000000)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanMeza21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+![JuanMeza21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMeza21&theme=blueberry&show_icons=true&hide_border=true&layout=compact&bg_color=00000000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMeza21&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=JuanMeza21&theme=tokyonight&hide_border=true&background=00000000)
+![JuanMeza21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanMeza21&theme=blueberry&hide_border=true&background=00000000)
 
 </div>
 
